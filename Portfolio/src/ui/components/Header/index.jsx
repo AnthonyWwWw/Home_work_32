@@ -36,7 +36,7 @@ export default function Header() {
             About me
           </NavLink>
           <NavLink component={RouterLink} to="/my-work">
-            My work
+            My works
           </NavLink>
           <NavLink component={RouterLink} to="/skills">
             Skills
